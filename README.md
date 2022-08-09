@@ -9,7 +9,7 @@ You need to be able to setup a laravel development environment on your PC
 You should be familiar with laravel and livewire
 Have a basic knowledge of object oriented PHP
 Task to perform
-Step 1 -- The Exercise
+#Step 1 -- The Exercise
 First fork this repository to you local repository
 Create a laravel project install laravel-livewire
 Create a TASK Management portal
